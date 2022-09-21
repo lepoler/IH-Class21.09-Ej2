@@ -1,0 +1,445 @@
+Name:  "Janet Gaynor"
+Year:  1928
+Age:  22
+Movie:  "Seventh Heaven Street Angel and Sunrise: A Song of Two Humans"
+Separator: =======
+Name:  "Mary Pickford"
+Year:  1929
+Age:  37
+Movie:  "Coquette"
+Separator: =======
+Name:  "Norma Shearer"
+Year:  1930
+Age:  28
+Movie:  "The Divorcee"	
+Separator: =======
+Name:  "Marie Dressler"
+Year:  1931
+Age:  63
+Movie:  "Min and Bill"
+Separator: =======
+Name:  "Helen Hayes"
+Year:  1932
+Age:  32
+Movie:  "The Sin of Madelon Claudet"	
+Separator: =======
+Name:  "Katharine Hepburn"
+Year:  1933
+Age:  26
+Movie:  "Morning Glory"
+Separator: =======
+Name:  "Claudette Colbert"
+Year:  1934
+Age:  31
+Movie:  "It Happened One Night"
+Separator: =======
+Name:  "Bette Davis"
+Year:  1935
+Age:  27
+Movie:  "Dangerous"
+Separator: =======
+Name:  "Luise Rainer"
+Year:  1936
+Age:  27
+Movie:  "The Great Ziegfeld"
+Separator: =======
+Name:  "Luise Rainer"
+Year:  1937
+Age:  28
+Movie:  "The Good Earth"
+Separator: =======
+Name:  "Bette Davis"
+Year:  1938
+Age:  30
+Movie:  "Jezebel"
+Separator: =======
+Name:  "Vivien Leigh"
+Year:  1939
+Age:  26
+Movie:  "Gone with the Wind"
+Separator: =======
+Name:  "Ginger Rogers"
+Year:  1940
+Age:  29
+Movie:  "Kitty Foyle"
+Separator: =======
+Name:  "Joan Fontaine"
+Year:  1941
+Age:  24
+Movie:  "Suspicion"	
+Separator: =======
+Name:  "Greer Garson"
+Year:  1942
+Age:  38
+Movie:  "Mrs. Miniver"
+Separator: =======
+Name:  "Jennifer Jones"
+Year:  1943
+Age:  25
+Movie:  "The Song of Bernadette"
+Separator: =======
+Name:  "Ingrid Bergman"
+Year:  1944
+Age:  29
+Movie:  "Gaslight"
+Separator: =======
+Name:  "Joan Crawford"
+Year:  1945
+Age:  40
+Movie:  "Mildred Pierce"
+Separator: =======
+Name:  "Olivia de Havilland"
+Year:  1946
+Age:  30
+Movie:  "To Each His Own"
+Separator: =======
+Name:  "Loretta Young"
+Year:  1947
+Age:  35
+Movie:  "The Farmer's Daughter"
+Separator: =======
+Name:  "Jane Wyman"
+Year:  1948
+Age:  32
+Movie:  "Johnny Belinda"
+Separator: =======
+Name:  "Olivia de Havilland"
+Year:  1949
+Age:  33
+Movie:  "The Heiress"
+Separator: =======
+Name:  "Judy Holliday"
+Year:  1950
+Age:  29
+Movie:  "Born Yesterday"
+Separator: =======
+Name:  "Vivien Leigh"
+Year:  1951
+Age:  38
+Movie:  "A Streetcar Named Desire"
+Separator: =======
+Name:  "Shirley Booth"
+Year:  1952
+Age:  54
+Movie:  "Come Back
+Separator: =======
+Name:  "Audrey Hepburn"
+Year:  1953
+Age:  24
+Movie:  "Roman Holiday"
+Separator: =======
+Name:  "Grace Kelly"
+Year:  1954
+Age:  25
+Movie:  "The Country Girl"
+Separator: =======
+Name:  "Anna Magnani"
+Year:  1955
+Age:  48
+Movie:  "The Rose Tattoo"
+Separator: =======
+Name:  "Ingrid Bergman"
+Year:  1956
+Age:  41
+Movie:  "Anastasia"
+Separator: =======
+Name:  "Joanne Woodward"
+Year:  1957
+Age:  28
+Movie:  "The Three Faces of Eve"
+Separator: =======
+Name:  "Susan Hayward"
+Year:  1958
+Age:  41
+Movie:  "I Want to Live!"
+Separator: =======
+Name:  "Simone Signoret"
+Year:  1959
+Age:  39
+Movie:  "Room at the Top"
+Separator: =======
+Name:  "Elizabeth Taylor"
+Year:  1960
+Age:  29
+Movie:  "BUtterfield 8"
+Separator: =======
+Name:  "Sophia Loren"
+Year:  1961
+Age:  27
+Movie:  "Two Women"
+Separator: =======
+Name:  "Anne Bancroft"
+Year:  1962
+Age:  31
+Movie:  "The Miracle Worker"
+Separator: =======
+Name:  "Patricia Neal"
+Year:  1963
+Age:  31
+Movie:  "Hud"
+Separator: =======
+Name:  "Julie Andrews"
+Year:  1964
+Age:  29
+Movie:  "Mary Poppins"
+Separator: =======
+Name:  "Julie Christie"
+Year:  1965
+Age:  25
+Movie:  "Darling"
+Separator: =======
+Name:  "Elizabeth Taylor"
+Year:  1966
+Age:  35
+Movie:  "Who's Afraid of Virginia Woolf?"
+Separator: =======
+Name:  "Katharine Hepburn"
+Year:  1967
+Age:  60
+Movie:  "Guess Who's Coming to Dinner"
+Separator: =======
+Name:  "Katharine Hepburn"
+Year:  1968
+Age:  61
+Movie:  "The Lion in Winter"
+Separator: =======
+Name:  "Barbra Streisand"
+Year:  1969
+Age:  26
+Movie:  "Funny Girl"
+Separator: =======
+Name:  "Maggie Smith"
+Year:  1970
+Age:  35
+Movie:  "The Prime of Miss Jean Brodie"
+Separator: =======
+Name:  "Glenda Jackson"
+Year:  1971
+Age:  34
+Movie:  "Women in Love"
+Separator: =======
+Name:  "Jane Fonda"
+Year:  1972
+Age:  34
+Movie:  "Klute"
+Separator: =======
+Name:  "Liza Minnelli"
+Year:  1973
+Age:  27
+Movie:  "Cabaret"
+Separator: =======
+Name:  "Glenda Jackson"
+Year:  1974
+Age:  37
+Movie:  "A Touch of Class"
+Separator: =======
+Name:  "Ellen Burstyn"
+Year:  1975
+Age:  42
+Movie:  "Alice Doesn't Live Here Anymore"	
+Separator: =======
+Name:  "Louise Fletcher"
+Year:  1976
+Age:  41
+Movie:  "One Flew Over the Cuckoo's Nest"
+Separator: =======
+Name:  "Faye Dunaway"
+Year:  1977
+Age:  36
+Movie:  "Network"
+Separator: =======
+Name:  "Diane Keaton"
+Year:  1978
+Age:  32
+Movie:  "Annie Hall"
+Separator: =======
+Name:  "Jane Fonda"
+Year:  1979
+Age:  41
+Movie:  "Coming Home"
+Separator: =======
+Name:  "Sally Field"
+Year:  1980
+Age:  33
+Movie:  "Norma Rae"
+Separator: =======
+Name:  "Sissy Spacek"
+Year:  1981
+Age:  31
+Movie:  "Coal Miner's Daughter"	
+Separator: =======
+Name:  "Katharine Hepburn"
+Year:  1982
+Age:  74
+Movie:  "On Golden Pond"
+Separator: =======
+Name:  "Meryl Streep"
+Year:  1983
+Age:  33
+Movie:  "Sophie's Choice"
+Separator: =======
+Name:  "Shirley MacLaine"
+Year:  1984
+Age:  49
+Movie:  "Terms of Endearment"	
+Separator: =======
+Name:  "Sally Field"
+Year:  1985
+Age:  38
+Movie:  "Places in the Heart"
+Separator: =======
+Name:  "Geraldine Page"
+Year:  1986
+Age:  61
+Movie:  "The Trip to Bountiful"	
+Separator: =======
+Name:  "Marlee Matlin"
+Year:  1987
+Age:  21
+Movie:  "Children of a Lesser God"
+Separator: =======
+Name:  "Cher"
+Year:  1988
+Age:  41
+Movie:  "Moonstruck"
+Separator: =======
+Name:  "Jodie Foster"
+Year:  1989
+Age:  26
+Movie:  "The Accused"
+Separator: =======
+Name:  "Jessica Tandy"
+Year:  1990
+Age:  80
+Movie:  "Driving Miss Daisy"
+Separator: =======
+Name:  "Kathy Bates"
+Year:  1991
+Age:  42
+Movie:  "Misery"
+Separator: =======
+Name:  "Jodie Foster"
+Year:  1992
+Age:  29
+Movie:  "The Silence of the Lambs"
+Separator: =======
+Name:  "Emma Thompson"
+Year:  1993
+Age:  33
+Movie:  "Howards End"
+Separator: =======
+Name:  "Holly Hunter"
+Year:  1994
+Age:  36
+Movie:  "The Piano"
+Separator: =======
+Name:  "Jessica Lange"
+Year:  1995
+Age:  45
+Movie:  "Blue Sky"
+Separator: =======
+Name:  "Susan Sarandon"
+Year:  1996
+Age:  49
+Movie:  "Dead Man Walking"
+Separator: =======
+Name:  "Frances McDormand"
+Year:  1997
+Age:  39
+Movie:  "Fargo"
+Separator: =======
+Name:  "Helen Hunt"
+Year:  1998
+Age:  34
+Movie:  "As Good as It Gets"
+Separator: =======
+Name:  "Gwyneth Paltrow"
+Year:  1999
+Age:  26
+Movie:  "Shakespeare in Love"
+Separator: =======
+Name:  "Hilary Swank"
+Year:  2000
+Age:  25
+Movie:  "Boys Don't Cry"
+Separator: =======
+Name:  "Julia Roberts"
+Year:  2001
+Age:  33
+Movie:  "Erin Brockovich"
+Separator: =======
+Name:  "Halle Berry"
+Year:  2002
+Age:  35
+Movie:  "Monster's Ball"
+Separator: =======
+Name:  "Nicole Kidman"
+Year:  2003
+Age:  35
+Movie:  "The Hours"
+Separator: =======
+Name:  "Charlize Theron"
+Year:  2004
+Age:  28
+Movie:  "Monster"
+Separator: =======
+Name:  "Hilary Swank"
+Year:  2005
+Age:  30
+Movie:  "Million Dollar Baby"
+Separator: =======
+Name:  "Reese Witherspoon"
+Year:  2006
+Age:  29
+Movie:  "Walk the Line"
+Separator: =======
+Name:  "Helen Mirren"
+Year:  2007
+Age:  61
+Movie:  "The Queen"
+Separator: =======
+Name:  "Marion Cotillard"
+Year:  2008
+Age:  32
+Movie:  "La Vie en rose"
+Separator: =======
+Name:  "Kate Winslet"
+Year:  2009
+Age:  33
+Movie:  "The Reader"
+Separator: =======
+Name:  "Sandra Bullock"
+Year:  2010
+Age:  45
+Movie:  "The Blind Side"
+Separator: =======
+Name:  "Natalie Portman"
+Year:  2011
+Age:  29
+Movie:  "Black Swan"
+Separator: =======
+Name:  "Meryl Streep"
+Year:  2012
+Age:  62
+Movie:  "The Iron Lady"
+Separator: =======
+Name:  "Jennifer Lawrence"
+Year:  2013
+Age:  22
+Movie:  "Silver Linings Playbook"
+Separator: =======
+Name:  "Cate Blanchett"
+Year:  2014
+Age:  44
+Movie:  "Blue Jasmine"
+Separator: =======
+Name:  "Julianne Moore"
+Year:  2015
+Age:  54
+Movie:  "Still Alice"
+Separator: =======
+Name:  "Brie Larson"
+Year:  2016
+Age:  26
+Movie:  "Room"
+Separator: =======
